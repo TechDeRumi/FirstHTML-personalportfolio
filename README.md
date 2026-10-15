@@ -2,7 +2,7 @@
 
 A multi-page personal portfolio website built with HTML, showcasing my education, skills, projects, and experience.
 
-🔗 **Live website:** [YOUR LIVE LINK HERE](https://yourusername.github.io/repository-name/)
+🔗 **Live website:** (https://techderumi.github.io/FirstHTML-personalportfolio/)
 
 ---
 
